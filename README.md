@@ -15,7 +15,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/mateuszskoczek/GeneratorCSV" style="table, tr, td { border: none; }">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mateuszskoczek&repo=GeneratorCSV&theme=transparent&show_owner=true&description_lines_count=3" alt="mateuszskoczek" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mateuszskoczek&repo=GeneratorCSV&theme=dark&bg_color=25,220005,88001c&border_color=000000&show_owner=true&description_lines_count=3" alt="mateuszskoczek" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/sebastian-jedrzejewski/JavaGridGraph" style="table, tr, td { border: none; }">
