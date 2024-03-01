@@ -60,4 +60,4 @@
 
 ## Statistics
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateuszskoczek&theme=transparent&card_width=1100" alt="mateuszskoczek" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateuszskoczek&theme=transparent&border_color=373737&card_width=1100" alt="mateuszskoczek" />
