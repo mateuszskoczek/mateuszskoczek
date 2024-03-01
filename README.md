@@ -2,7 +2,7 @@
 
 ## Projects
 
-### Desktop applications
+<h3 align="center">Desktop applications</h3>
 
 <p align="center">
   <a href="https://github.com/mateuszskoczek/VDownload" style="table, tr, td { border: none; }">
@@ -19,11 +19,11 @@
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/sebastian-jedrzejewski/JavaGridGraph" style="table, tr, td { border: none; }">
-    <img height=130 src="https://github-readme-stats.vercel.app/api/pin/?username=sebastian-jedrzejewski&repo=JavaGridGraph&theme=transparent&show_owner=true&description_lines_count=3" alt="mateuszskoczek" />
+    <img height=130 src="https://github-readme-stats.vercel.app/api/pin/?username=sebastian-jedrzejewski&repo=JavaGridGraph&theme=transparent&border_color=373737&show_owner=true&description_lines_count=3" alt="mateuszskoczek" />
   </a>
 </p>
 
-### Web applications
+<h3 align="center">Web applications</h3>
 
 <p align="center">
   <a href="https://github.com/mateuszskoczek/WatchIt" style="table, tr, td { border: none; }">
@@ -36,19 +36,19 @@
 </p>
 <p align="center">
   <a href="https://github.com/mateuszskoczek/SecureBank" style="table, tr, td { border: none; }">
-    <img height=130 src="https://github-readme-stats.vercel.app/api/pin/?username=mateuszskoczek&repo=SecureBank&theme=transparent&show_owner=true&description_lines_count=3" alt="mateuszskoczek" />
+    <img height=130 src="https://github-readme-stats.vercel.app/api/pin/?username=mateuszskoczek&repo=SecureBank&theme=transparent&border_color=373737&show_owner=true&description_lines_count=3" alt="mateuszskoczek" />
   </a>
 </p>
 
-### Console applications
+<h3 align="center">Console applications</h3>
 
 <p align="center">
   <a href="https://github.com/sebastian-jedrzejewski/GridGraph" style="table, tr, td { border: none; }">
-    <img height=130 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sebastian-jedrzejewski&repo=GridGraph&theme=transparent&show_owner=true&description_lines_count=3" alt="mateuszskoczek" />
+    <img height=130 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sebastian-jedrzejewski&repo=GridGraph&theme=transparent&border_color=373737&show_owner=true&description_lines_count=3" alt="mateuszskoczek" />
   </a>
 </p>
 
-### Libraries/Packages
+<h3 align="center">Libraries/Packages</h3>
 
 <p align="center">
   <a href="https://github.com/mateuszskoczek/SimpleToolkit" style="table, tr, td { border: none; }">
