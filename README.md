@@ -1,6 +1,14 @@
-### Hi there 👋
+<h1 align="center">Hi 👋</h1>
 
-## Projects
+My name is **Mateusz Skoczek**. I'm **C# Developer** from **Poland** with four years of experience in writing .NET apps (including one year of commercial experience). I am eager to take on new technological challenges by learning new programming languages and frameworks.
+
+<h2 align="center">Technologies</h2>
+
+
+  
+  
+  
+  Projects
 
 <h3 align="center">Desktop applications</h3>
 
