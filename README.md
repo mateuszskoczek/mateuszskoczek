@@ -15,13 +15,24 @@ My name is **Mateusz Skoczek**. I'm **C# Developer** from **Poland** with four y
 
 <h4> </h4>
 
-<table>
+<table align="center">
+  <tr>
+    <th colspan=2>
+      Language
+    </th>
+    <th>
+      Technologies
+    </th>
+  </tr>
   <tr>
     <td>
       <img height=35 src="csharp.png" alt="csharp" />
     </td>
     <td>
-      <strong>C#</strong>
+      <strong>.NET/C#</strong>
+    </td>
+    <td>
+      ASP.NET, Blazor, EF, WinForms, WPF, Windows App SDK, UWP
     </td>
   </tr>
   <tr>
@@ -30,6 +41,9 @@ My name is **Mateusz Skoczek**. I'm **C# Developer** from **Poland** with four y
     </td>
     <td>
       <strong>SQL</strong>
+    </td>
+    <td>
+      MS SQL Server, PostgreSQL
     </td>
   </tr>
 </table>
