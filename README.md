@@ -2,7 +2,37 @@
 
 My name is **Mateusz Skoczek**. I'm **C# Developer** from **Poland** with four years of experience in writing .NET apps (including one year of commercial experience). I am eager to take on new technological challenges by learning new programming languages and frameworks.
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/mateusz-skoczek/">
+    <img height=45 src="linkedin.png" alt="linkedin" />
+  </a>
+  <a href="mailto:mateusz5432160@gmail.com">
+    <img height=45 src="mail.png" alt="mail" />
+  </a>
+</p>
+
 <h2 align="center">Technologies</h2>
+
+<h4> </h4>
+
+<table>
+  <tr>
+    <td>
+      <img height=35 src="csharp.png" alt="csharp" />
+    </td>
+    <td>
+      <strong>C#</strong>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img height=35 src="sql.png" alt="sql" />
+    </td>
+    <td>
+      <strong>SQL</strong>
+    </td>
+  </tr>
+</table>
 
 
   
