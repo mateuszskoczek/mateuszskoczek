@@ -46,6 +46,36 @@ My name is **Mateusz Skoczek**. I'm **C# Developer** from **Poland** with four y
       MS SQL Server, PostgreSQL
     </td>
   </tr>
+  <tr>
+    <td>
+      <img height=35 src="html.png" alt="html" />
+    </td>
+    <td colspan=2>
+      <strong>HTML</strong>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img height=35 src="python.png" alt="python" />
+    </td>
+    <td>
+      <strong>Python</strong>
+    </td>
+    <td>
+      Tkinter, Django REST Framework
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img height=35 src="javascript.png" alt="javascript" />
+    </td>
+    <td>
+      <strong>Javascript</strong>
+    </td>
+    <td>
+      React
+    </td>
+  </tr>
 </table>
 
 
