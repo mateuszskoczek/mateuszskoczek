@@ -11,9 +11,7 @@ My name is **Mateusz Skoczek**. I'm **C# Developer** from **Poland** with four y
   </a>
 </p>
 
-<h2 align="center">Technologies</h2>
-
-<h4> </h4>
+<h2 align="center">Technologies & tools</h2>
 
 <table align="center">
   <tr>
@@ -22,6 +20,9 @@ My name is **Mateusz Skoczek**. I'm **C# Developer** from **Poland** with four y
     </th>
     <th>
       Technologies
+    </th>
+    <th>
+      Experience
     </th>
   </tr>
   <tr>
@@ -34,6 +35,13 @@ My name is **Mateusz Skoczek**. I'm **C# Developer** from **Poland** with four y
     <td>
       ASP.NET, Blazor, EF, WinForms, WPF, Windows App SDK, UWP
     </td>
+    <td>
+      <img height=20 src="star.png" alt="star" />
+      <img height=20 src="star.png" alt="star" />
+      <img height=20 src="star.png" alt="star" />
+      <img height=20 src="star.png" alt="star" />
+      <img height=20 src="star.png" alt="star" />
+    </td>
   </tr>
   <tr>
     <td>
@@ -45,6 +53,13 @@ My name is **Mateusz Skoczek**. I'm **C# Developer** from **Poland** with four y
     <td>
       MS SQL Server, PostgreSQL
     </td>
+    <td>
+      <img height=20 src="star.png" alt="star" />
+      <img height=20 src="star.png" alt="star" />
+      <img height=20 src="star.png" alt="star" />
+      <img height=20 src="star.png" alt="star" />
+      <img height=20 src="star-half.png" alt="star" />
+    </td>
   </tr>
   <tr>
     <td>
@@ -52,6 +67,28 @@ My name is **Mateusz Skoczek**. I'm **C# Developer** from **Poland** with four y
     </td>
     <td colspan=2>
       <strong>HTML</strong>
+    </td>
+    <td>
+      <img height=20 src="star.png" alt="star" />
+      <img height=20 src="star.png" alt="star" />
+      <img height=20 src="star.png" alt="star" />
+      <img height=20 src="star-half.png" alt="star" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img height=35 src="css.png" alt="css" />
+    </td>
+    <td>
+      <strong>CSS</strong>
+    </td>
+    <td>
+      Bootstrap
+    </td>
+    <td>
+      <img height=20 src="star.png" alt="star" />
+      <img height=20 src="star.png" alt="star" />
+      <img height=20 src="star.png" alt="star" />
     </td>
   </tr>
   <tr>
@@ -64,6 +101,22 @@ My name is **Mateusz Skoczek**. I'm **C# Developer** from **Poland** with four y
     <td>
       Tkinter, Django REST Framework
     </td>
+    <td>
+      <img height=20 src="star.png" alt="star" />
+      <img height=20 src="star.png" alt="star" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img height=35 src="java.png" alt="java" />
+    </td>
+    <td colspan=2>
+      <strong>Java</strong>
+    </td>
+    <td>
+      <img height=20 src="star.png" alt="star" />
+      <img height=20 src="star-half.png" alt="star" />
+    </td>
   </tr>
   <tr>
     <td>
@@ -75,14 +128,13 @@ My name is **Mateusz Skoczek**. I'm **C# Developer** from **Poland** with four y
     <td>
       React
     </td>
+    <td>
+      Started learning
+    </td>
   </tr>
 </table>
-
-
   
-  
-  
-  Projects
+<h2 align="center">Projects</h2>
 
 <h3 align="center">Desktop applications</h3>
 
@@ -146,6 +198,6 @@ My name is **Mateusz Skoczek**. I'm **C# Developer** from **Poland** with four y
 
 
 
-## Statistics
+<h2 align="center">Statistics</h2>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateuszskoczek&theme=transparent&border_color=373737&card_width=1100" alt="mateuszskoczek" />
