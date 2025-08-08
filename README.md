@@ -1,6 +1,140 @@
-### Hi there 👋
+<h1 align="center">Hi 👋</h1>
 
-## Projects
+My name is **Mateusz Skoczek**. I'm **C# Developer** from **Poland** with four years of experience in writing .NET apps (including one year of commercial experience). I am eager to take on new technological challenges by learning new programming languages and frameworks.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mateusz-skoczek/">
+    <img height=45 src="linkedin.png" alt="linkedin" />
+  </a>
+  <a href="mailto:mateusz5432160@gmail.com">
+    <img height=45 src="mail.png" alt="mail" />
+  </a>
+</p>
+
+<h2 align="center">Technologies & tools</h2>
+
+<table align="center">
+  <tr>
+    <th colspan=2>
+      Language
+    </th>
+    <th>
+      Technologies
+    </th>
+    <th>
+      Experience
+    </th>
+  </tr>
+  <tr>
+    <td>
+      <img height=35 src="csharp.png" alt="csharp" />
+    </td>
+    <td>
+      <strong>.NET/C#</strong>
+    </td>
+    <td>
+      ASP.NET, Blazor, EF, WinForms, WPF, Windows App SDK, UWP
+    </td>
+    <td>
+      <img height=20 src="star.png" alt="star" />
+      <img height=20 src="star.png" alt="star" />
+      <img height=20 src="star.png" alt="star" />
+      <img height=20 src="star.png" alt="star" />
+      <img height=20 src="star.png" alt="star" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img height=35 src="sql.png" alt="sql" />
+    </td>
+    <td>
+      <strong>SQL</strong>
+    </td>
+    <td>
+      MS SQL Server, PostgreSQL
+    </td>
+    <td>
+      <img height=20 src="star.png" alt="star" />
+      <img height=20 src="star.png" alt="star" />
+      <img height=20 src="star.png" alt="star" />
+      <img height=20 src="star.png" alt="star" />
+      <img height=20 src="star-half.png" alt="star" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img height=35 src="html.png" alt="html" />
+    </td>
+    <td colspan=2>
+      <strong>HTML</strong>
+    </td>
+    <td>
+      <img height=20 src="star.png" alt="star" />
+      <img height=20 src="star.png" alt="star" />
+      <img height=20 src="star.png" alt="star" />
+      <img height=20 src="star-half.png" alt="star" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img height=35 src="css.png" alt="css" />
+    </td>
+    <td>
+      <strong>CSS</strong>
+    </td>
+    <td>
+      Bootstrap
+    </td>
+    <td>
+      <img height=20 src="star.png" alt="star" />
+      <img height=20 src="star.png" alt="star" />
+      <img height=20 src="star.png" alt="star" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img height=35 src="python.png" alt="python" />
+    </td>
+    <td>
+      <strong>Python</strong>
+    </td>
+    <td>
+      Tkinter, Django REST Framework
+    </td>
+    <td>
+      <img height=20 src="star.png" alt="star" />
+      <img height=20 src="star.png" alt="star" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img height=35 src="java.png" alt="java" />
+    </td>
+    <td colspan=2>
+      <strong>Java</strong>
+    </td>
+    <td>
+      <img height=20 src="star.png" alt="star" />
+      <img height=20 src="star-half.png" alt="star" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img height=35 src="javascript.png" alt="javascript" />
+    </td>
+    <td>
+      <strong>Javascript</strong>
+    </td>
+    <td>
+      React
+    </td>
+    <td>
+      Started learning
+    </td>
+  </tr>
+</table>
+  
+<h2 align="center">Projects</h2>
 
 <h3 align="center">Desktop applications</h3>
 
@@ -64,6 +198,6 @@
 
 
 
-## Statistics
+<h2 align="center">Statistics</h2>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateuszskoczek&theme=transparent&border_color=373737&card_width=1100" alt="mateuszskoczek" />
