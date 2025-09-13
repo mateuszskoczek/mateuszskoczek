@@ -118,20 +118,6 @@ My name is **Mateusz Skoczek**. I'm **C# Developer** from **Poland** with four y
       <img height=20 src="star-half.png" alt="star" />
     </td>
   </tr>
-  <tr>
-    <td>
-      <img height=35 src="javascript.png" alt="javascript" />
-    </td>
-    <td>
-      <strong>Javascript</strong>
-    </td>
-    <td>
-      React
-    </td>
-    <td>
-      Started learning
-    </td>
-  </tr>
 </table>
   
 <h2 align="center">Projects</h2>
