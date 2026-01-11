@@ -42,7 +42,7 @@ My name is **Mateusz Skoczek**. I'm **C# Developer** from **Poland** with four y
       Movie and tv series database along with social media platform for cinematography fans. Topic of my engineer degree thesis.
     </td>
     <td>
-      <img height=30 src="csharp.png" alt="csharp" />
+      <img height=20 src="csharp.png" alt="csharp" />
     </td>
     <td>
       ASP.NET Core WebAPI, Blazor, PostgresSQL
@@ -56,17 +56,17 @@ My name is **Mateusz Skoczek**. I'm **C# Developer** from **Poland** with four y
       <b>TimetableDesigner</b>
     </td>
     <td>
-      Advanced school timetable editor. <i>Development in progress</i>
+      Advanced school timetable editor. Web version of my desktop app. <i>Development in progress</i>
     </td>
     <td>
-      <img height=30 src="csharp.png" alt="csharp" />
-      <img height=30 src="javascript.png" alt="javascript" />
+      <img height=20 src="csharp.png" alt="csharp" />
+      <img height=20 src="typescript.png" alt="typescript" />
     </td>
     <td>
       ASP.NET Core WebAPI, React, PostgresSQL
     </td>
     <td>
-      <a href="https://github.com/TimetableDesigner">Github organization</a>
+      <a href="https://github.com/TimetableDesigner">Organization</a>
     </td>
   </tr>
   <tr>
@@ -77,14 +77,14 @@ My name is **Mateusz Skoczek**. I'm **C# Developer** from **Poland** with four y
       A calendar that supports the user in time management. Part of the "Team Project" course at university.
     </td>
     <td>
-      <img height=30 src="python.png" alt="python" />
-      <img height=30 src="javascript.png" alt="javascript" />
+      <img height=20 src="python.png" alt="python" />
+      <img height=20 src="javascript.png" alt="javascript" />
     </td>
     <td>
       Django REST Framework, React, Mongo DB
     </td>
     <td>
-      <a href="https://github.com/Szade-Organization">Github organization</a>
+      <a href="https://github.com/Szade-Organization">Organization</a>
     </td>
   </tr>
   <tr>
@@ -92,16 +92,143 @@ My name is **Mateusz Skoczek**. I'm **C# Developer** from **Poland** with four y
       <b>SecureBank</b>
     </td>
     <td>
-      Simple secure web application for managing a bank account. Part of the "Data protection in IT systems" course at oniversity
+      Simple secure web application for managing a bank account. Part of the "Data protection in IT systems" course at university
     </td>
     <td>
-      <img height=30 src="csharp.png" alt="csharp" />
+      <img height=20 src="csharp.png" alt="csharp" />
     </td>
     <td>
       ASP.NET Core WebAPI, Blazor, Sqlite
     </td>
     <td>
       <a href="https://github.com/mateuszskoczek/SecureBank">Repository</a>
+    </td>
+  </tr>
+  <tr>
+    <th rowspan=4>
+      Desktop applications
+    </th>
+    <td>
+      <b>VDownload</b>
+    </td>
+    <td>
+      Universal video downloader, which allows you to download videos and playlists from popular video services.
+    </td>
+    <td>
+      <img height=20 src="csharp.png" alt="csharp" />
+    </td>
+    <td>
+      UWP, Windows App SDK
+    </td>
+    <td>
+      <a href="https://github.com/mateuszskoczek/VDownload">Repository</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b>TimetableDesigner</b>
+    </td>
+    <td>
+      Advanced school timetable editor. Part of the "Individual Project" course at university.
+    </td>
+    <td>
+      <img height=20 src="csharp.png" alt="csharp" />
+    </td>
+    <td>
+      WPF
+    </td>
+    <td>
+      <a href="https://github.com/mateuszskoczek/TimetableDesigner">Repository</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b>GeneratorCSV</b>
+    </td>
+    <td>
+      Students and teachers data converter for Microsoft 365 Admin Center. Implemented as part of the introduction of Microsoft 365 at my high school.
+    </td>
+    <td>
+      <img height=20 src="python.png" alt="python" />
+    </td>
+    <td>
+      Tkinter
+    </td>
+    <td>
+      <a href="https://github.com/mateuszskoczek/GeneratorCSV">Repository</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b>GridGraph</b>
+    </td>
+    <td>
+      Simple desktop (Java) and console (C) applications for managing and checking the properties of mesh graphs. Team project, part of the "Programming languages ​​and methods" course at university.
+    </td>
+    <td>
+      <img height=20 src="java.png" alt="java" />
+      <img height=20 src="c.png" alt="c" />
+    </td>
+    <td>
+      JavaFX
+    </td>
+    <td>
+      <a href="https://github.com/sebastian-jedrzejewski/JavaGridGraph">Repository (Java)</a>
+      <a href="https://github.com/sebastian-jedrzejewski/GridGraph">Repository (C)</a>
+    </td>
+  </tr>
+  <tr>
+    <th>
+      Libraries
+    </th>
+    <td>
+      <b>SimpleToolkit</b>
+    </td>
+    <td>
+      Set of helpers, models, controls, etc. used in my other C# projects. 
+    </td>
+    <td>
+      <img height=20 src="csharp.png" alt="csharp" />
+    </td>
+    <td>
+      Windows App SDK
+    </td>
+    <td>
+      <a href="https://github.com/mateuszskoczek/SimpleToolkit">Repository</a>
+    </td>
+  </tr>
+  <tr>
+    <th rowspan=2>
+      Other
+    </th>
+    <td>
+      <b>IPsecExporter</b>
+    </td>
+    <td>
+      Prometheus IPsec VPN metrics exporter for Libreswan 
+    </td>
+    <td colspan=2>
+      <img height=20 src="python.png" alt="python" />
+    </td>
+    <td>
+      <a href="https://github.com/mateuszskoczek/IPsecExporter">Repository</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b>3DRenderer</b>
+    </td>
+    <td>
+      Simple 3D Renderer. Part of the "Computer Graphics" course at university.
+    </td>
+    <td>
+      <img height=20 src="python.png" alt="python" />
+    </td>
+    <td>
+      PyGame
+    </td>
+    <td>
+      <a href="https://github.com/mateuszskoczek/3DRenderer">Repository</a>
     </td>
   </tr>
 </table>
@@ -214,49 +341,3 @@ My name is **Mateusz Skoczek**. I'm **C# Developer** from **Poland** with four y
     </td>
   </tr>
 </table>
-  
-<h2 align="center">Projects</h2>
-
-<h3 align="center">Desktop applications</h3>
-
-<p align="center">
-  <a href="https://github.com/mateuszskoczek/VDownload" style="table, tr, td { border: none; }">
-    <img height=130 src="https://github-readme-stats.vercel.app/api/pin/?username=mateuszskoczek&repo=VDownload&theme=dark&bg_color=25,020022,005e88&border_color=000000&show_owner=true&description_lines_count=3" alt="mateuszskoczek" />
-  </a>
-  <a href="https://github.com/mateuszskoczek/TimetableDesigner" style="table, tr, td { border: none; }">
-    <img height=130 src="https://github-readme-stats.vercel.app/api/pin/?username=mateuszskoczek&repo=TimetableDesigner&theme=dark&bg_color=25,0a0022,340088&border_color=000000&show_owner=true&description_lines_count=3" alt="mateuszskoczek" />
-  </a>
-  <a href="https://github.com/mateuszskoczek/GeneratorCSV" style="table, tr, td { border: none; }">
-    <img height=130 src="https://github-readme-stats.vercel.app/api/pin/?username=mateuszskoczek&repo=GeneratorCSV&theme=transparent&border_color=373737&show_owner=true&description_lines_count=3" alt="mateuszskoczek" />
-  </a>
-  <a href="https://github.com/sebastian-jedrzejewski/JavaGridGraph" style="table, tr, td { border: none; }">
-    <img height=130 src="https://github-readme-stats.vercel.app/api/pin/?username=sebastian-jedrzejewski&repo=JavaGridGraph&theme=transparent&border_color=373737&show_owner=true&description_lines_count=3" alt="mateuszskoczek" />
-  </a>
-</p>
-
-<h3 align="center">Console applications</h3>
-
-<p align="center">
-  <a href="https://github.com/sebastian-jedrzejewski/GridGraph" style="table, tr, td { border: none; }">
-    <img height=130 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sebastian-jedrzejewski&repo=GridGraph&theme=transparent&border_color=373737&show_owner=true&description_lines_count=3" alt="mateuszskoczek" />
-  </a>
-</p>
-
-<h3 align="center">Libraries/Packages</h3>
-
-<p align="center">
-  <a href="https://github.com/mateuszskoczek/SimpleToolkit" style="table, tr, td { border: none; }">
-    <img height=130 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mateuszskoczek&repo=SimpleToolkit&theme=dark&bg_color=25,222200,808800&border_color=000000&show_owner=true&description_lines_count=3" alt="mateuszskoczek" />
-  </a>
-</p>
-
-<h3 align="center">Other</h3>
-
-<p align="center">
-  <a href="https://github.com/mateuszskoczek/IPsecExporter" style="table, tr, td { border: none; }">
-    <img height=130 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mateuszskoczek&repo=IPsecExporter&theme=dark&bg_color=25,2d0e0e,c93232&border_color=000000&show_owner=true&description_lines_count=3" alt="mateuszskoczek" />
-  </a>
-  <a href="https://github.com/mateuszskoczek/3DRenderer" style="table, tr, td { border: none; }">
-    <img height=130 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mateuszskoczek&repo=3DRenderer&theme=transparent&border_color=373737&show_owner=true&description_lines_count=3" alt="mateuszskoczek" />
-  </a>
-</p>
