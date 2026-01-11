@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋</h1>
 
-My name is **Mateusz Skoczek**. I'm **C# Developer** from **Poland** with four years of experience in writing .NET apps (including one year of commercial experience). I am eager to take on new technological challenges by learning new programming languages and frameworks.
+My name is **Mateusz Skoczek**. I'm **C# Developer** from **Poland** with four years of experience in writing .NET apps (including one year of commercial experience). I am a graduate of the Warsaw University of Technology with an engineering degree. I am eager to take on new technological challenges by learning new programming languages and frameworks.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mateusz-skoczek/">
@@ -10,6 +10,101 @@ My name is **Mateusz Skoczek**. I'm **C# Developer** from **Poland** with four y
     <img height=45 src="mail.png" alt="mail" />
   </a>
 </p>
+
+<h2 align="center">Projects</h2>
+
+<table align="center">
+  <tr>
+    <th>
+      Category
+    </th>
+    <th>
+      Name
+    </th>
+    <th>
+      Description
+    </th>
+    <th colspan=2>
+      Technologies
+    </th>
+    <th>
+      URLs
+    </th>
+  </tr>
+  <tr>
+    <th rowspan=4>
+      Web applications
+    </th>
+    <td>
+      <b>WatchIt</b>
+    </td>
+    <td>
+      Movie and tv series database along with social media platform for cinematography fans. Topic of my engineer degree thesis.
+    </td>
+    <td>
+      <img height=30 src="csharp.png" alt="csharp" />
+    </td>
+    <td>
+      ASP.NET Core WebAPI, Blazor, PostgresSQL
+    </td>
+    <td>
+      <a href="https://github.com/mateuszskoczek/WatchIt">Repository</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b>TimetableDesigner</b>
+    </td>
+    <td>
+      Advanced school timetable editor. <i>Development in progress</i>
+    </td>
+    <td>
+      <img height=30 src="csharp.png" alt="csharp" />
+      <img height=30 src="javascript.png" alt="javascript" />
+    </td>
+    <td>
+      ASP.NET Core WebAPI, React, PostgresSQL
+    </td>
+    <td>
+      <a href="https://github.com/TimetableDesigner">Github organization</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b>BetterCalendar</b>
+    </td>
+    <td>
+      A calendar that supports the user in time management. Part of the "Team Project" course at university.
+    </td>
+    <td>
+      <img height=30 src="python.png" alt="python" />
+      <img height=30 src="javascript.png" alt="javascript" />
+    </td>
+    <td>
+      Django REST Framework, React, Mongo DB
+    </td>
+    <td>
+      <a href="https://github.com/Szade-Organization">Github organization</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b>SecureBank</b>
+    </td>
+    <td>
+      Simple secure web application for managing a bank account. Part of the "Data protection in IT systems" course at oniversity
+    </td>
+    <td>
+      <img height=30 src="csharp.png" alt="csharp" />
+    </td>
+    <td>
+      ASP.NET Core WebAPI, Blazor, Sqlite
+    </td>
+    <td>
+      <a href="https://github.com/mateuszskoczek/SecureBank">Repository</a>
+    </td>
+  </tr>
+</table>
 
 <h2 align="center">Technologies & tools</h2>
 
@@ -51,7 +146,7 @@ My name is **Mateusz Skoczek**. I'm **C# Developer** from **Poland** with four y
       <strong>SQL</strong>
     </td>
     <td>
-      MS SQL Server, PostgreSQL
+      MS SQL Server, PostgreSQL, Sqlite
     </td>
     <td>
       <img height=20 src="star.png" alt="star" />
@@ -139,20 +234,6 @@ My name is **Mateusz Skoczek**. I'm **C# Developer** from **Poland** with four y
   </a>
 </p>
 
-<h3 align="center">Web applications</h3>
-
-<p align="center">
-  <a href="https://github.com/mateuszskoczek/WatchIt" style="table, tr, td { border: none; }">
-    <img height=130 src="https://github-readme-stats.vercel.app/api/pin/?username=mateuszskoczek&repo=WatchIt&theme=dark&bg_color=25,220d00,885900&border_color=000000&show_owner=true&description_lines_count=3" alt="mateuszskoczek" />
-  </a>
-  <a href="https://github.com/Szade-Organization/BetterCalendar-API" style="table, tr, td { border: none; }">
-    <img height=130 src="https://github-readme-stats.vercel.app/api/pin/?username=Szade-Organization&repo=BetterCalendar-API&theme=dark&bg_color=25,002200,008809&border_color=000000&show_owner=true&description_lines_count=3" alt="Szade-Organization" />
-  </a>
-  <a href="https://github.com/mateuszskoczek/SecureBank" style="table, tr, td { border: none; }">
-    <img height=130 src="https://github-readme-stats.vercel.app/api/pin/?username=mateuszskoczek&repo=SecureBank&theme=transparent&border_color=373737&show_owner=true&description_lines_count=3" alt="mateuszskoczek" />
-  </a>
-</p>
-
 <h3 align="center">Console applications</h3>
 
 <p align="center">
@@ -179,11 +260,3 @@ My name is **Mateusz Skoczek**. I'm **C# Developer** from **Poland** with four y
     <img height=130 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mateuszskoczek&repo=3DRenderer&theme=transparent&border_color=373737&show_owner=true&description_lines_count=3" alt="mateuszskoczek" />
   </a>
 </p>
-
-
-
-
-
-<h2 align="center">Statistics</h2>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateuszskoczek&theme=transparent&border_color=373737&card_width=1100" alt="mateuszskoczek" />
