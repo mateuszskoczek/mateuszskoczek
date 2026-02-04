@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋</h1>
 
-<p align="center">My name is <b>Mateusz Skoczek</b>. I'm <b>C# Developer</b> from <b>Poland</b> with four years of experience in writing .NET apps (including one year of commercial experience). I am a graduate of the Warsaw University of Technology with an engineering degree. I am eager to take on new technological challenges by learning new programming languages and frameworks.</p>
+<p align="center">My name is <b>Mateusz Skoczek</b>. I'm <b>C# Developer</b> from <b>Poland</b> with four years of experience in writing .NET apps (including one year of commercial experience). I am a graduate of engineering studies in Applied Computer Science at the Warsaw University of Technology, currently continuing my studies in master's studies. I am eager to take on new technological challenges by learning new programming languages and frameworks.</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mateusz-skoczek/">
