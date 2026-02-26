@@ -41,7 +41,7 @@
       <b>WatchIt</b>
     </td>
     <td>
-      Movie and tv series database along with social media platform for cinematography fans. Topic of my engineer degree thesis.
+      Movie and tv series database along with social media platform for cinematography fans.<br>Topic of my engineer degree thesis.
     </td>
     <td>
       <img src="https://img.shields.io/badge/C%23-darkgreen?logo=dotnet&logoColor=white"/><br>
@@ -59,7 +59,7 @@
       <b>TimetableDesigner</b>
     </td>
     <td>
-      Advanced school timetable editor, allows you to easily create and manage school timetable. Web version of my desktop app.
+      Advanced school timetable editor, allows you to easily create and manage school timetable.<br>Web version of my desktop app.
     </td>
     <td>
       <img src="https://img.shields.io/badge/C%23-darkgreen?logo=dotnet&logoColor=white"/><br>
@@ -78,7 +78,7 @@
       <b>BetterCalendar</b>
     </td>
     <td>
-      A calendar that supports the user in time management. Part of the "Team Project" course at my university.
+      A calendar that supports the user in time management.<br>Part of the "Team Project" course at my university.
     </td>
     <td>
       <img src="https://img.shields.io/badge/%E2%80%8EPython-blue?logo=python&logoColor=white"/><br>
@@ -96,7 +96,7 @@
       <b>SecureBank</b>
     </td>
     <td>
-      Simple secure web application for managing a bank account. Part of the "Data protection in IT systems" course at university
+      Simple secure web application for managing a bank account.<br>Part of the "Data protection in IT systems" course at university
     </td>
     <td>
       <img src="https://img.shields.io/badge/C%23-darkgreen?logo=dotnet&logoColor=white"/><br>
@@ -111,11 +111,24 @@
   </tr>
 </table>
 
-<table align="center">
+### Desktop applications
+
+<table>
   <tr>
-    <th rowspan=4>
-      Desktop applications
+    <th>
+      Name
     </th>
+    <th>
+      Description
+    </th>
+    <th>
+      Technologies
+    </th>
+    <th>
+      URLs
+    </th>
+  </tr>
+  <tr>
     <td>
       <b>VDownload</b>
     </td>
@@ -123,13 +136,12 @@
       Universal video downloader, which allows you to download videos and playlists from popular video services.
     </td>
     <td>
-      <img height=20 src="csharp.png" alt="csharp" />
+      <img src="https://img.shields.io/badge/C%23-darkgreen?logo=dotnet&logoColor=white"/><br>
+      <img src="https://img.shields.io/badge/%E2%80%8E%20-Windows%20App%20SDK-darkgreen?logo=dotnet&logoColor=white"/><br>
     </td>
     <td>
-      UWP, Windows App SDK
-    </td>
-    <td>
-      <a href="https://github.com/mateuszskoczek/VDownload">Repository</a>
+      <a href="https://repos.mateuszskoczek.com/MateuszSkoczek/VDownload"><img src="https://img.shields.io/badge/%E2%80%8EMain%20repository-darkgreen?logo=gitea&logoColor=white"/></a><br>
+      <a href="https://github.com/mateuszskoczek/VDownload"><img src="https://img.shields.io/badge/%E2%80%8EGithub%20mirror-black?logo=github&logoColor=white"/></a><br>
     </td>
   </tr>
   <tr>
@@ -137,16 +149,15 @@
       <b>TimetableDesigner</b>
     </td>
     <td>
-      Advanced school timetable editor. Part of the "Individual Project" course at university.
+      Advanced school timetable editor, allows you to easily create and manage school timetable.<br>Part of the "Individual Project" course at university.
     </td>
     <td>
-      <img height=20 src="csharp.png" alt="csharp" />
+      <img src="https://img.shields.io/badge/C%23-darkgreen?logo=dotnet&logoColor=white"/><br>
+      <img src="https://img.shields.io/badge/%E2%80%8E%20-WPF-darkgreen?logo=dotnet&logoColor=white"/><br>
     </td>
     <td>
-      WPF
-    </td>
-    <td>
-      <a href="https://github.com/mateuszskoczek/TimetableDesigner">Repository</a>
+      <a href="https://repos.mateuszskoczek.com/MateuszSkoczek/TimetableDesigner"><img src="https://img.shields.io/badge/%E2%80%8EMain%20repository-darkgreen?logo=gitea&logoColor=white"/></a><br>
+      <a href="https://github.com/mateuszskoczek/TimetableDesigner"><img src="https://img.shields.io/badge/%E2%80%8EGithub%20mirror-black?logo=github&logoColor=white"/></a><br>
     </td>
   </tr>
   <tr>
@@ -154,16 +165,15 @@
       <b>GeneratorCSV</b>
     </td>
     <td>
-      Students and teachers data converter for Microsoft 365 Admin Center. Implemented as part of the introduction of Microsoft 365 at my high school.
+      Students and teachers data file structure converter for Microsoft 365 Admin Center.<br>Implemented as part of the introduction of Microsoft 365 at my high school.
     </td>
     <td>
-      <img height=20 src="python.png" alt="python" />
+      <img src="https://img.shields.io/badge/%E2%80%8EPython-blue?logo=python&logoColor=white"/><br>
+      <img src="https://img.shields.io/badge/%E2%80%8E%20-Tkinter-blue?logo=python&logoColor=white"/><br>
     </td>
     <td>
-      Tkinter
-    </td>
-    <td>
-      <a href="https://github.com/mateuszskoczek/GeneratorCSV">Repository</a>
+      <a href="https://repos.mateuszskoczek.com/MateuszSkoczek/GeneratorCSV"><img src="https://img.shields.io/badge/%E2%80%8EMain%20repository-darkgreen?logo=gitea&logoColor=white"/></a><br>
+      <a href="https://github.com/mateuszskoczek/GeneratorCSV"><img src="https://img.shields.io/badge/%E2%80%8EGithub%20mirror-black?logo=github&logoColor=white"/></a><br>
     </td>
   </tr>
   <tr>
@@ -171,55 +181,100 @@
       <b>GridGraph</b>
     </td>
     <td>
-      Simple desktop (Java) and console (C) applications for managing and checking the properties of mesh graphs. Team project, part of the "Programming languages ​​and methods" course at university.
+      Simple desktop (Java) and console (C) applications for managing and checking the properties of mesh graphs.<br>Team project, part of the "Programming languages and methods" course at university.
     </td>
     <td>
-      <img height=20 src="java.png" alt="java" />
-      <img height=20 src="c.png" alt="c" />
+      <img src="https://img.shields.io/badge/Java-orange?logo=coffeescript&logoColor=white"/><br>
+      <img src="https://img.shields.io/badge/%E2%80%8E%20-JavaFX-orange?logo=coffeescript&logoColor=white"/><br>
+      <img src="https://img.shields.io/badge/C-blue?logo=c&logoColor=white"/><br>
     </td>
     <td>
-      JavaFX
-    </td>
-    <td>
-      <a href="https://github.com/sebastian-jedrzejewski/JavaGridGraph">Repository (Java)</a>
-      <a href="https://github.com/sebastian-jedrzejewski/GridGraph">Repository (C)</a>
+      <a href="https://github.com/sebastian-jedrzejewski/JavaGridGraph"><img src="https://img.shields.io/badge/Repository%20(Java)-black?logo=github&logoColor=white"/></a><br>
+      <a href="https://github.com/sebastian-jedrzejewski/GridGraph"><img src="https://img.shields.io/badge/Repository%20(C)-black?logo=github&logoColor=white"/></a><br>
     </td>
   </tr>
+</table>
+
+### Libraries
+
+<table>
   <tr>
     <th>
-      Libraries
+      Name
     </th>
+    <th>
+      Description
+    </th>
+    <th>
+      Technologies
+    </th>
+    <th>
+      URLs
+    </th>
+  </tr>
+  <tr>
     <td>
       <b>SimpleToolkit</b>
     </td>
     <td>
-      Set of helpers, models, controls, etc. used in my other C# projects. 
+      Set of helpers, class extensions, UI controls used in my other C# projects
     </td>
     <td>
-      <img height=20 src="csharp.png" alt="csharp" />
+      <img src="https://img.shields.io/badge/C%23-darkgreen?logo=dotnet&logoColor=white"/><br>
+      <img src="https://img.shields.io/badge/%E2%80%8E%20-Windows%20App%20SDK-darkgreen?logo=dotnet&logoColor=white"/><br>
     </td>
     <td>
-      Windows App SDK
+      <a href="https://repos.mateuszskoczek.com/SimpleToolkit"><img src="https://img.shields.io/badge/%E2%80%8EMain%20organization-darkgreen?logo=gitea&logoColor=white"/></a><br>
+      <a href="https://github.com/SimpleToolkit"><img src="https://img.shields.io/badge/%E2%80%8EGithub%20mirror-black?logo=github&logoColor=white"/></a><br>
+    </td>
+  </tr>
+</table>
+
+### Other
+
+<table>
+  <tr>
+    <th>
+      Name
+    </th>
+    <th>
+      Description
+    </th>
+    <th>
+      Technologies
+    </th>
+    <th>
+      URLs
+    </th>
+  </tr>
+  <tr>
+    <td>
+      <b>CDLDownloader</b>
     </td>
     <td>
-      <a href="https://github.com/mateuszskoczek/SimpleToolkit">Repository</a>
+      Automation script for downloading medical test results files from ewyniki.cdl.pl
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-blue?logo=python&logoColor=white"/><br>
+    </td>
+    <td>
+      <a href="https://repos.mateuszskoczek.com/MateuszSkoczek/CDLDownloader"><img src="https://img.shields.io/badge/%E2%80%8EMain%20repository-darkgreen?logo=gitea&logoColor=white"/></a><br>
+      <a href="https://github.com/mateuszskoczek/CDLDownloader"><img src="https://img.shields.io/badge/%E2%80%8EGithub%20mirror-black?logo=github&logoColor=white"/></a><br>
     </td>
   </tr>
   <tr>
-    <th rowspan=2>
-      Other
-    </th>
     <td>
       <b>IPsecExporter</b>
     </td>
     <td>
-      Prometheus IPsec VPN metrics exporter for Libreswan 
-    </td>
-    <td colspan=2>
-      <img height=20 src="python.png" alt="python" />
+      Metrics exporter for Libreswan IPsec VPN for use with Prometheus and Grafana
     </td>
     <td>
-      <a href="https://github.com/mateuszskoczek/IPsecExporter">Repository</a>
+      <img src="https://img.shields.io/badge/Python-blue?logo=python&logoColor=white"/>
+    </td>
+    <td>
+      <a href="https://repos.mateuszskoczek.com/MateuszSkoczek/IPsecExporter"><img src="https://img.shields.io/badge/%E2%80%8EMain%20repository-darkgreen?logo=gitea&logoColor=white"/></a><br>
+      <a href="https://github.com/mateuszskoczek/IPsecExporter"><img src="https://img.shields.io/badge/%E2%80%8EGithub%20mirror-black?logo=github&logoColor=white"/></a><br>
     </td>
   </tr>
   <tr>
@@ -227,121 +282,18 @@
       <b>3DRenderer</b>
     </td>
     <td>
-      Simple 3D Renderer. Part of the "Computer Graphics" course at university.
+      A simple 3D renderer that allows you to move around the scene using the keys.<br>Part of the "Computer Graphics" course at university.
     </td>
     <td>
-      <img height=20 src="python.png" alt="python" />
+      <img src="https://img.shields.io/badge/Python-blue?logo=python&logoColor=white"/><br>
+      <img src="https://img.shields.io/badge/%E2%80%8E-PyGame-blue?logo=python&logoColor=white"/>
     </td>
     <td>
-      PyGame
-    </td>
-    <td>
-      <a href="https://github.com/mateuszskoczek/3DRenderer">Repository</a>
+      <a href="https://repos.mateuszskoczek.com/MateuszSkoczek/3DRenderer"><img src="https://img.shields.io/badge/%E2%80%8EMain%20repository-darkgreen?logo=gitea&logoColor=white"/></a><br>
+      <a href="https://github.com/mateuszskoczek/3DRenderer"><img src="https://img.shields.io/badge/%E2%80%8EGithub%20mirror-black?logo=github&logoColor=white"/></a><br>
     </td>
   </tr>
 </table>
-
-<h2 align="center">Technologies & tools</h2>
-
-<table align="center">
-  <tr>
-    <th colspan=2>
-      Language
-    </th>
-    <th>
-      Technologies
-    </th>
-    <th>
-      Experience
-    </th>
-  </tr>
-  <tr>
-    <td>
-      <img height=35 src="csharp.png" alt="csharp" />
-    </td>
-    <td>
-      <strong>.NET/C#</strong>
-    </td>
-    <td>
-      ASP.NET, Blazor, EF, WinForms, WPF, Windows App SDK, UWP
-    </td>
-    <td>
-      <img height=20 src="star.png" alt="star" />
-      <img height=20 src="star.png" alt="star" />
-      <img height=20 src="star.png" alt="star" />
-      <img height=20 src="star.png" alt="star" />
-      <img height=20 src="star.png" alt="star" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img height=35 src="sql.png" alt="sql" />
-    </td>
-    <td>
-      <strong>SQL</strong>
-    </td>
-    <td>
-      MS SQL Server, PostgreSQL, Sqlite
-    </td>
-    <td>
-      <img height=20 src="star.png" alt="star" />
-      <img height=20 src="star.png" alt="star" />
-      <img height=20 src="star.png" alt="star" />
-      <img height=20 src="star.png" alt="star" />
-      <img height=20 src="star-half.png" alt="star" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img height=35 src="html.png" alt="html" />
-    </td>
-    <td colspan=2>
-      <strong>HTML</strong>
-    </td>
-    <td>
-      <img height=20 src="star.png" alt="star" />
-      <img height=20 src="star.png" alt="star" />
-      <img height=20 src="star.png" alt="star" />
-      <img height=20 src="star-half.png" alt="star" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img height=35 src="css.png" alt="css" />
-    </td>
-    <td>
-      <strong>CSS</strong>
-    </td>
-    <td>
-      Bootstrap
-    </td>
-    <td>
-      <img height=20 src="star.png" alt="star" />
-      <img height=20 src="star.png" alt="star" />
-      <img height=20 src="star.png" alt="star" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img height=35 src="python.png" alt="python" />
-    </td>
-    <td>
-      <strong>Python</strong>
-    </td>
-    <td>
-      Tkinter, Django REST Framework
-    </td>
-    <td>
-      <img height=20 src="star.png" alt="star" />
-      <img height=20 src="star.png" alt="star" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img height=35 src="java.png" alt="java" />
-    </td>
-    <td colspan=2>
-      <strong>Java</strong>
     </td>
     <td>
       <img height=20 src="star.png" alt="star" />
