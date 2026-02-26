@@ -294,10 +294,3 @@
     </td>
   </tr>
 </table>
-    </td>
-    <td>
-      <img height=20 src="star.png" alt="star" />
-      <img height=20 src="star-half.png" alt="star" />
-    </td>
-  </tr>
-</table>
