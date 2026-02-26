@@ -10,7 +10,7 @@
     <img height=45 src="mail.png" alt="mail" />
   </a>
   <a href="https://repos.mateuszskoczek.com">
-    <img height=45 src="gitea.png" alt="gitea" />
+    <img height=45 src="git.png" alt="git" />
   </a>
   <a href="https://github.com/mateuszskoczek">
     <img height=45 src="github.png" alt="github" />
