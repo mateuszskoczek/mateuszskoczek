@@ -9,22 +9,27 @@
   <a href="mailto:mateusz5432160@gmail.com">
     <img height=45 src="mail.png" alt="mail" />
   </a>
+  <a href="https://repos.mateuszskoczek.com">
+    <img height=45 src="gitea.png" alt="gitea" />
+  </a>
+  <a href="https://github.com/mateuszskoczek">
+    <img height=45 src="github.png" alt="github" />
+  </a>
 </p>
 
 <h2 align="center">Projects</h2>
 
-<table align="center">
+### Web applications
+
+<table>
   <tr>
-    <th>
-      Category
-    </th>
     <th>
       Name
     </th>
     <th>
       Description
     </th>
-    <th colspan=2>
+    <th>
       Technologies
     </th>
     <th>
@@ -32,9 +37,6 @@
     </th>
   </tr>
   <tr>
-    <th rowspan=4>
-      Web applications
-    </th>
     <td>
       <b>WatchIt</b>
     </td>
@@ -42,13 +44,14 @@
       Movie and tv series database along with social media platform for cinematography fans. Topic of my engineer degree thesis.
     </td>
     <td>
-      <img height=20 src="csharp.png" alt="csharp" />
+      <img src="https://img.shields.io/badge/C%23-darkgreen?logo=dotnet&logoColor=white"/><br>
+      <img src="https://img.shields.io/badge/%E2%80%8E%20-ASP.NET%20Core%20Web%20API-darkgreen?logo=dotnet&logoColor=white"/><br>
+      <img src="https://img.shields.io/badge/%E2%80%8E%20-Blazor-darkgreen?logo=dotnet&logoColor=white"/><br>
+      <img src="https://img.shields.io/badge/%E2%80%8EPostgreSQL-blue?logo=postgresql&logoColor=white"/>
     </td>
     <td>
-      ASP.NET Core WebAPI, Blazor, PostgresSQL
-    </td>
-    <td>
-      <a href="https://github.com/mateuszskoczek/WatchIt">Repository</a>
+      <a href="https://repos.mateuszskoczek.com/MateuszSkoczek/WatchIt"><img src="https://img.shields.io/badge/%E2%80%8EMain%20repository-darkgreen?logo=gitea&logoColor=white"/></a><br>
+      <a href="https://github.com/mateuszskoczek/WatchIt"><img src="https://img.shields.io/badge/%E2%80%8EGithub%20mirror-black?logo=github&logoColor=white"/></a><br>
     </td>
   </tr>
   <tr>
@@ -56,17 +59,18 @@
       <b>TimetableDesigner</b>
     </td>
     <td>
-      Advanced school timetable editor. Web version of my desktop app. <i>Development in progress</i>
+      Advanced school timetable editor, allows you to easily create and manage school timetable. Web version of my desktop app.
     </td>
     <td>
-      <img height=20 src="csharp.png" alt="csharp" />
-      <img height=20 src="typescript.png" alt="typescript" />
+      <img src="https://img.shields.io/badge/C%23-darkgreen?logo=dotnet&logoColor=white"/><br>
+      <img src="https://img.shields.io/badge/%E2%80%8E%20-ASP.NET%20Core%20Web%20API-darkgreen?logo=dotnet&logoColor=white"/><br>
+      <img src="https://img.shields.io/badge/%E2%80%8ETypescript-darkblue?logo=typescript&logoColor=white"/><br>
+      <img src="https://img.shields.io/badge/%E2%80%8E%20-React-darkblue?logo=typescript&logoColor=white"/><br>
+      <img src="https://img.shields.io/badge/%E2%80%8EPostgreSQL-blue?logo=postgresql&logoColor=white"/>
     </td>
     <td>
-      ASP.NET Core WebAPI, React, PostgresSQL
-    </td>
-    <td>
-      <a href="https://github.com/TimetableDesigner">Organization</a>
+      <a href="https://repos.mateuszskoczek.com/TimetableDesigner"><img src="https://img.shields.io/badge/%E2%80%8EMain%20organization-darkgreen?logo=gitea&logoColor=white"/></a><br>
+      <a href="https://github.com/TimetableDesigner"><img src="https://img.shields.io/badge/%E2%80%8EGithub%20mirror-black?logo=github&logoColor=white"/></a><br>
     </td>
   </tr>
   <tr>
@@ -74,17 +78,17 @@
       <b>BetterCalendar</b>
     </td>
     <td>
-      A calendar that supports the user in time management. Part of the "Team Project" course at university.
+      A calendar that supports the user in time management. Part of the "Team Project" course at my university.
     </td>
     <td>
-      <img height=20 src="python.png" alt="python" />
-      <img height=20 src="javascript.png" alt="javascript" />
+      <img src="https://img.shields.io/badge/%E2%80%8EPython-blue?logo=python&logoColor=white"/><br>
+      <img src="https://img.shields.io/badge/%E2%80%8E%20-Django%20REST%20Framework-blue?logo=python&logoColor=white"/><br>
+      <img src="https://img.shields.io/badge/%E2%80%8EJavascript-yellow?logo=javascript&logoColor=white"/><br>
+      <img src="https://img.shields.io/badge/%E2%80%8E%20-React-yellow?logo=javascript&logoColor=white"/><br>
+      <img src="https://img.shields.io/badge/%E2%80%8EMongoDB-darkgreen?logo=mongodb&logoColor=white"/>
     </td>
     <td>
-      Django REST Framework, React, Mongo DB
-    </td>
-    <td>
-      <a href="https://github.com/Szade-Organization">Organization</a>
+      <a href="https://github.com/Szade-Organization"><img src="https://img.shields.io/badge/%E2%80%8EOrganization-black?logo=github&logoColor=white"/></a><br>
     </td>
   </tr>
   <tr>
@@ -95,15 +99,19 @@
       Simple secure web application for managing a bank account. Part of the "Data protection in IT systems" course at university
     </td>
     <td>
-      <img height=20 src="csharp.png" alt="csharp" />
+      <img src="https://img.shields.io/badge/C%23-darkgreen?logo=dotnet&logoColor=white"/><br>
+      <img src="https://img.shields.io/badge/%E2%80%8E%20-ASP.NET%20Core%20Web%20API-darkgreen?logo=dotnet&logoColor=white"/><br>
+      <img src="https://img.shields.io/badge/%E2%80%8E%20-Blazor-darkgreen?logo=dotnet&logoColor=white"/><br>
+      <img src="https://img.shields.io/badge/%E2%80%8ESQLite-blue?logo=sqlite&logoColor=white"/>
     </td>
     <td>
-      ASP.NET Core WebAPI, Blazor, Sqlite
-    </td>
-    <td>
-      <a href="https://github.com/mateuszskoczek/SecureBank">Repository</a>
+      <a href="https://repos.mateuszskoczek.com/MateuszSkoczek/SecureBank"><img src="https://img.shields.io/badge/%E2%80%8EMain%20repository-darkgreen?logo=gitea&logoColor=white"/></a><br>
+      <a href="https://github.com/mateuszskoczek/SecureBank"><img src="https://img.shields.io/badge/%E2%80%8EGithub%20mirror-black?logo=github&logoColor=white"/></a><br>
     </td>
   </tr>
+</table>
+
+<table align="center">
   <tr>
     <th rowspan=4>
       Desktop applications
