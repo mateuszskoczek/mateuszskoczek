@@ -66,7 +66,8 @@
       <img src="https://img.shields.io/badge/%E2%80%8E%20-ASP.NET%20Core%20Web%20API-darkgreen?logo=dotnet&logoColor=white"/><br>
       <img src="https://img.shields.io/badge/%E2%80%8ETypescript-darkblue?logo=typescript&logoColor=white"/><br>
       <img src="https://img.shields.io/badge/%E2%80%8E%20-React-darkblue?logo=typescript&logoColor=white"/><br>
-      <img src="https://img.shields.io/badge/%E2%80%8EPostgreSQL-blue?logo=postgresql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/%E2%80%8EPostgreSQL-blue?logo=postgresql&logoColor=white"/><br>
+      <img src="https://img.shields.io/badge/%E2%80%8ERabbitMQ-orange?logo=rabbitmq&logoColor=white"/>
     </td>
     <td>
       <a href="https://repos.mateuszskoczek.com/TimetableDesigner"><img src="https://img.shields.io/badge/%E2%80%8EMain%20organization-darkgreen?logo=gitea&logoColor=white"/></a><br>
