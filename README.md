@@ -215,7 +215,7 @@
   </tr>
   <tr>
     <td>
-      <b>SimpleToolkit</b>
+      <b>MSEssentials</b>
     </td>
     <td>
       Set of helpers, class extensions, UI controls used in my other C# projects
@@ -225,8 +225,8 @@
       <img src="https://img.shields.io/badge/%E2%80%8E%20-Windows%20App%20SDK-darkgreen?logo=dotnet&logoColor=white"/><br>
     </td>
     <td>
-      <a href="https://repos.mateuszskoczek.com/SimpleToolkit"><img src="https://img.shields.io/badge/%E2%80%8EMain%20organization-darkgreen?logo=gitea&logoColor=white"/></a><br>
-      <a href="https://github.com/SimpleToolkit"><img src="https://img.shields.io/badge/%E2%80%8EGithub%20mirror-black?logo=github&logoColor=white"/></a><br>
+      <a href="https://repos.mateuszskoczek.com/MSEssentials"><img src="https://img.shields.io/badge/%E2%80%8EMain%20organization-darkgreen?logo=gitea&logoColor=white"/></a><br>
+      <a href="https://github.com/MSEssentials"><img src="https://img.shields.io/badge/%E2%80%8EGithub%20mirror-black?logo=github&logoColor=white"/></a><br>
     </td>
   </tr>
 </table>
